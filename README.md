@@ -26,3 +26,9 @@ November
 December  
 - [ ] Clean up work  
 - [ ] Reach out to HearthSim to see if they’re interested in this project   
+
+NN Docker Image:  
+https://github.com/floydhub/dl-docker  
+
+Flask Docker Image:  
+https://github.com/tomaszguzialek/flask-api/  
