@@ -12,7 +12,7 @@ September
 - [ ] Pull a current subset of active decks to begin labeling  
 - [ ] Begin initial design on NN   
 - [ ] Layers, convolution (?), output function   
-- [ ] Set up Keras, Tensor Flow, and Flask  
+- [x] Set up Keras, Tensor Flow, and Flask  
 
 October  
 - [ ] Begin front end work  
@@ -32,3 +32,6 @@ https://github.com/floydhub/dl-docker
 
 Flask Docker Image:  
 https://github.com/tomaszguzialek/flask-api/  
+
+Flask:  
+http://flask.pocoo.org/docs/0.12/quickstart/#a-minimal-application
