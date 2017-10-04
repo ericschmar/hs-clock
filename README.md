@@ -10,9 +10,11 @@ code to course file drop box for the Project Artifacts assignment.
 
 September
 - [ ] Pull a current subset of active decks to begin labeling  
-- [ ] Begin initial design on NN   
-- [ ] Layers, convolution (?), output function   
-- [x] Set up Keras, Tensor Flow, and Flask  
+- [x] Begin initial design on NN   
+- [x] Layers, convolution (?), output function  
+30 nodes per layer, 3 layers, activation=reLU, output=softmax  
+https://keras.io/getting-started/sequential-model-guide/
+- [x] Set up Keras, Tensor Flow, and Flask  
 
 October  
 - [ ] Begin front end work  
