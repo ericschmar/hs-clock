@@ -32,8 +32,5 @@ December
 NN Docker Image:  
 https://github.com/floydhub/dl-docker  
 
-Flask Docker Image:  
-https://github.com/tomaszguzialek/flask-api/  
-
 Flask:  
 http://flask.pocoo.org/docs/0.12/quickstart/#a-minimal-application
