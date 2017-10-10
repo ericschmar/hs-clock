@@ -1,4 +1,5 @@
 import sys
+import json
 from pprint import pprint
 
 class deck:
@@ -7,10 +8,10 @@ class deck:
         self.game_length = game_length
         self.turns = turns
         self.deck_id = deck_id
-        self.deck_list = deck_list
-        self.digest = digest
+        self.deck_list = json.dumps(deck_list)
+        self.digest = ''.join(e for e in digest if e.isalnum())
         self.win_rate = win_rate
-        self.player_class = player_class
+        self.player_class = ''.join(e for e in player_class if e.isalnum())
 
     def print_deck(self):
         pprint(vars(self))

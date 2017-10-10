@@ -1,0 +1,611 @@
+[
+    {
+        "id": 7,
+        "name": "Token Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/7/token-druid"
+    },
+    {
+        "id": 9,
+        "name": "Face Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/9/face-hunter"
+    },
+    {
+        "id": 13,
+        "name": "C'Thun Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/13/cthun-druid"
+    },
+    {
+        "id": 18,
+        "name": "Astral Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/18/astral-druid"
+    },
+    {
+        "id": 21,
+        "name": "Patron Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/21/patron-warrior"
+    },
+    {
+        "id": 35,
+        "name": "N'Zoth Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/35/nzoth-priest"
+    },
+    {
+        "id": 29,
+        "name": "N'Zoth Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/29/nzoth-rogue"
+    },
+    {
+        "id": 32,
+        "name": "Renouncelock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/32/renouncelock"
+    },
+    {
+        "id": 26,
+        "name": "Mid-Range Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/26/mid-range-shaman"
+    },
+    {
+        "id": 73,
+        "name": "Dragon Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/73/dragon-mage"
+    },
+    {
+        "id": 12,
+        "name": "Beast Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/12/beast-druid"
+    },
+    {
+        "id": 6,
+        "name": "Malygos Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/6/malygos-druid"
+    },
+    {
+        "id": 31,
+        "name": "Dragon Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/31/dragon-paladin"
+    },
+    {
+        "id": 36,
+        "name": "Control Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/36/control-priest"
+    },
+    {
+        "id": 56,
+        "name": "Quest Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/56/quest-priest"
+    },
+    {
+        "id": 134,
+        "name": "Zoolock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/134/zoolock"
+    },
+    {
+        "id": 38,
+        "name": "Mill Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/38/mill-warrior"
+    },
+    {
+        "id": 66,
+        "name": "Water Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/66/water-rogue"
+    },
+    {
+        "id": 19,
+        "name": "Dragon Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/19/dragon-warrior"
+    },
+    {
+        "id": 2,
+        "name": "Control Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/2/control-warrior"
+    },
+    {
+        "id": 69,
+        "name": "Elemental Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/69/elemental-paladin"
+    },
+    {
+        "id": 71,
+        "name": "Elemental Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/71/elemental-warrior"
+    },
+    {
+        "id": 77,
+        "name": "Mech Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/77/mech-mage"
+    },
+    {
+        "id": 79,
+        "name": "Quest Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/79/quest-paladin"
+    },
+    {
+        "id": 60,
+        "name": "Jade Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/60/jade-shaman"
+    },
+    {
+        "id": 166,
+        "name": "Elemental Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/166/elemental-paladin"
+    },
+    {
+        "id": 140,
+        "name": "Grime Street Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/140/grime-street-hunter"
+    },
+    {
+        "id": 146,
+        "name": "Highlander Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/146/highlander-mage"
+    },
+    {
+        "id": 143,
+        "name": "N'Zoth Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/143/nzoth-mage"
+    },
+    {
+        "id": 154,
+        "name": "Pirate Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/154/pirate-rogue"
+    },
+    {
+        "id": 126,
+        "name": "Murloc Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/126/murloc-shaman"
+    },
+    {
+        "id": 127,
+        "name": "Control Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/127/control-shaman"
+    },
+    {
+        "id": 128,
+        "name": "Highlander Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/128/highlander-priest"
+    },
+    {
+        "id": 130,
+        "name": "Dragon Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/130/dragon-priest"
+    },
+    {
+        "id": 63,
+        "name": "Demon Control Warlock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/63/demon-control-warlock"
+    },
+    {
+        "id": 131,
+        "name": "Silence Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/131/silence-priest"
+    },
+    {
+        "id": 135,
+        "name": "Discard Warlock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/135/discard-warlock"
+    },
+    {
+        "id": 132,
+        "name": "Handlock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/132/handlock"
+    },
+    {
+        "id": 1,
+        "name": "Freeze Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/1/freeze-mage"
+    },
+    {
+        "id": 136,
+        "name": "Highlander Warlock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/136/highlander-warlock"
+    },
+    {
+        "id": 22,
+        "name": "Pirate Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/22/pirate-warrior"
+    },
+    {
+        "id": 3,
+        "name": "Malygos Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/3/malygos-rogue"
+    },
+    {
+        "id": 149,
+        "name": "Taunt Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/149/taunt-druid"
+    },
+    {
+        "id": 61,
+        "name": "Elemental Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/61/elemental-shaman"
+    },
+    {
+        "id": 27,
+        "name": "Aggro Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/27/aggro-shaman"
+    },
+    {
+        "id": 68,
+        "name": "Elemental Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/68/elemental-priest"
+    },
+    {
+        "id": 167,
+        "name": "Dead Man Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/167/dead-man-warrior"
+    },
+    {
+        "id": 55,
+        "name": "Miracle Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/55/miracle-priest"
+    },
+    {
+        "id": 138,
+        "name": "Secret Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/138/secret-hunter"
+    },
+    {
+        "id": 168,
+        "name": "OTK DK Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/168/otk-dk-paladin"
+    },
+    {
+        "id": 139,
+        "name": "Deathrattle Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/139/deathrattle-hunter"
+    },
+    {
+        "id": 137,
+        "name": "Midrange Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/137/midrange-hunter"
+    },
+    {
+        "id": 169,
+        "name": "Prince Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/169/prince-rogue"
+    },
+    {
+        "id": 141,
+        "name": "Secret Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/141/secret-mage"
+    },
+    {
+        "id": 151,
+        "name": "Mill Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/151/mill-rogue"
+    },
+    {
+        "id": 144,
+        "name": "Control Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/144/control-mage"
+    },
+    {
+        "id": 142,
+        "name": "Quest Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/142/quest-mage"
+    },
+    {
+        "id": 145,
+        "name": "Elemental Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/145/elemental-mage"
+    },
+    {
+        "id": 11,
+        "name": "Tempo Mage",
+        "player_class": 4,
+        "player_class_name": "MAGE",
+        "url": "/archetypes/11/tempo-mage"
+    },
+    {
+        "id": 52,
+        "name": "Aggro Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/52/aggro-druid"
+    },
+    {
+        "id": 170,
+        "name": "Beast Hunter",
+        "player_class": 3,
+        "player_class_name": "HUNTER",
+        "url": "/archetypes/170/beast-hunter"
+    },
+    {
+        "id": 172,
+        "name": "Stealth Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/172/stealth-rogue"
+    },
+    {
+        "id": 129,
+        "name": "Big Priest",
+        "player_class": 6,
+        "player_class_name": "PRIEST",
+        "url": "/archetypes/129/big-priest"
+    },
+    {
+        "id": 147,
+        "name": "Jade Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/147/jade-druid"
+    },
+    {
+        "id": 148,
+        "name": "Big Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/148/big-druid"
+    },
+    {
+        "id": 153,
+        "name": "Elemental Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/153/elemental-rogue"
+    },
+    {
+        "id": 25,
+        "name": "Miracle Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/25/miracle-rogue"
+    },
+    {
+        "id": 16,
+        "name": "N'Zoth Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/16/nzoth-paladin"
+    },
+    {
+        "id": 15,
+        "name": "Secret Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/15/secret-paladin"
+    },
+    {
+        "id": 75,
+        "name": "Jade Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/75/jade-rogue"
+    },
+    {
+        "id": 62,
+        "name": "Murloc Warlock",
+        "player_class": 9,
+        "player_class_name": "WARLOCK",
+        "url": "/archetypes/62/murloc-warlock"
+    },
+    {
+        "id": 161,
+        "name": "Enrage Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/161/enrage-warrior"
+    },
+    {
+        "id": 165,
+        "name": "C'Thun Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/165/cthun-warrior"
+    },
+    {
+        "id": 162,
+        "name": "Quest Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/162/quest-warrior"
+    },
+    {
+        "id": 163,
+        "name": "Blood Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/163/blood-warrior"
+    },
+    {
+        "id": 157,
+        "name": "Murloc Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/157/murloc-paladin"
+    },
+    {
+        "id": 159,
+        "name": "Grimestreet Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/159/grimestreet-paladin"
+    },
+    {
+        "id": 156,
+        "name": "Control Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/156/control-paladin"
+    },
+    {
+        "id": 160,
+        "name": "Elemental Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/160/elemental-paladin"
+    },
+    {
+        "id": 152,
+        "name": "Tempo Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/152/tempo-rogue"
+    },
+    {
+        "id": 155,
+        "name": "Quest Rogue",
+        "player_class": 7,
+        "player_class_name": "ROGUE",
+        "url": "/archetypes/155/quest-rogue"
+    },
+    {
+        "id": 150,
+        "name": "Quest Druid",
+        "player_class": 2,
+        "player_class_name": "DRUID",
+        "url": "/archetypes/150/quest-druid"
+    },
+    {
+        "id": 72,
+        "name": "Pirate Murloc Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/72/pirate-murloc-paladin"
+    },
+    {
+        "id": 158,
+        "name": "Murloc Aggro Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/158/murloc-aggro-paladin"
+    },
+    {
+        "id": 171,
+        "name": "Aggro Paladin",
+        "player_class": 5,
+        "player_class_name": "PALADIN",
+        "url": "/archetypes/171/aggro-paladin"
+    },
+    {
+        "id": 30,
+        "name": "Token Shaman",
+        "player_class": 8,
+        "player_class_name": "SHAMAN",
+        "url": "/archetypes/30/token-shaman"
+    },
+    {
+        "id": 164,
+        "name": "Deathrattle Warrior",
+        "player_class": 10,
+        "player_class_name": "WARRIOR",
+        "url": "/archetypes/164/deathrattle-warrior"
+    }
+]
