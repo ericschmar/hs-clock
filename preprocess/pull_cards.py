@@ -2,6 +2,7 @@ import sys
 import urllib2
 import json
 from deck import deck
+from card import card
 from pprint import pprint
 
 deck_api_string = "https://hsreplay.net/analytics/query/list_decks_by_win_rate/?GameType=RANKED_STANDARD&RankRange=ALL&Region=ALL&TimeRange=LAST_30_DAYS"
@@ -53,16 +54,32 @@ def parse_decks_json(file):
                     win_rate=m['win_rate'],
                     player_class=keys[i])
             decks.append(c)
-    for i in range(len(decks)):
-        decks[i].print_deck()
+    #for i in range(len(decks)):
+    #    decks[i].print_deck()
 
 def parse_cards_json(file):
     with open(file) as data_file:
         data = json.load(data_file)
 
+    cards = []
+    for i in range(len(data)):
+        m = data[i]
+        pprint(m)
+        if 'SPELL' in m.iterkeys():
+            c = card(id=m['dbfId'], name=m['name'], cost=m['cost'], card_type=m['type'])
+        if 'MINION' in m.iterkeys():
+            c = card(id=m['dbfId'], name=m['name'], cost=m['cost'], attack=m['attack'], health=m['health'], card_type=m['type'])
+        if 'HERO' == m['type']:
+            pass
+        else:
+            c = card(id=m['dbfId'], name=m['name'], cost=m['cost'], card_type=m['type'])
+
+    for i in range(len(cards)):
+        cards[i].print_card()
+
 
 if __name__ == "__main__":
     #get_from_api(deck_api_string, 'decks.json')
-    parse_decks_json('decks.json')
+    #parse_decks_json('decks.json')
     #get_from_api(card_api_string, 'cards.json')
-    #parse_cards_json('cards.json')
+    parse_cards_json('cards.json')
