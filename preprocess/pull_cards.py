@@ -25,24 +25,20 @@ def get_from_api(target, f_name):
     if target == deck_api_string:
         content = page.read().replace("\\", "")
         print content[:1000]
-        #content.replace("{\"render_as\":\"table\",\"series\":{\"metadata\":{\"DRUID\":{},\"HUNTER\":{},\"MAGE\":{},\"PALADIN\":{},\"PRIEST\":{},\"ROGUE\":{},\"SHAMAN\":{},\"WARLOCK\":{},\"WARRIOR\":{}},\"data\":", "")
-        #content = content[:len(content) - 35] # remove the time of request
     else:
         content = page.read()
 
     f = open(f_name, 'w')
-    f.write(json.dumps(content, sort_keys=True))
+    f.write(content)
 
-def parse_cards_json():
-    with open('decks.json') as data_file:
+def parse_cards_json(file):
+    with open(file) as data_file:
         data = json.load(data_file)
 
-    #pprint(data)
-    #for i in data:
-    #    print data[i]
-    #    print "-------------"
+    pprint(data)
 
 if __name__ == "__main__":
-    get_from_api(deck_api_string, 'decks.json')
-    parse_cards_json()
-    #get_from_api(card_api_string, 'cards.json')
+    #get_from_api(deck_api_string, 'decks.json')
+    parse_cards_json('decks.json')
+    get_from_api(card_api_string, 'cards.json')
+    parse_cards_json('cards.json')
