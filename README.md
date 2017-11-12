@@ -33,6 +33,10 @@ December
 
 NN Docker Image:  
 https://github.com/floydhub/dl-docker  
+```
+docker run -it -p 8888:8888 -p 6006:6006 -v ~/sharedfolder:/root/sharedfolder floydhub/dl-docker:cpu bash
+jupyter notebook --allow-root
+```
 
 Flask:  
 http://flask.pocoo.org/docs/0.12/quickstart/#a-minimal-application
