@@ -13,7 +13,7 @@ def create_database(db_file):
                     CREATE TABLE IF NOT EXISTS archetype (id int, name text, player_class_name text) ''')
         c.execute('''
                     CREATE TABLE IF NOT EXISTS card (id_dbfid int, name text, cost int, attack int, health int, type text)''')
-        return c
+        return conn
     except Error as e:
         print(e)
         return None

@@ -115,16 +115,19 @@ def populate_database(db_file="hs-clock.db"):
             card = cards[i]
             c.execute('''INSERT INTO CARD (id_dbfid, name, cost, attack, health, type) VALUES ({}, '{}', {}, {}, {}, '{}') 
                     '''.format(card.id, card.name, card.cost, card.attack, card.health, card.card_type))
+            c.commit()
 
         for i in range(len(decks)):
             deck = decks[i]
             c.execute(''' INSERT INTO DECK (deck_id, deck_list, avg_duration, archetype_id, turns, digest, win_rate, class) VALUES ({}, {}, {}, {}, {}, '{}', {}, '{}')'''.format(deck.id, deck.deck_list, deck.game_length, "Null", deck.turns, deck.digest, deck.win_rate, deck.player_class))
+            c.commit()
 
         for i in range(len(archetypes)):
             archetype = archetypes[i]
             archetype.print_archetype()
             c.execute(''' INSERT INTO ARCHETYPE (id, name, player_class_name) VALUES ({}, '{}', '{}')'''.format(archetype.arch_id, archetype.name, archetype.player_class))
-
+            c.commit()
+            
     except Error as e:
         print(e)
 
