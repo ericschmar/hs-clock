@@ -1,1 +1,22 @@
-{"128": [["HighlanderPriest"]], "169": [["PrinceRogue"]], "147": [["JadeDruid"]], "137": [["MidrangeHunter"]]}
+{
+    "HighlanderPriest": {
+        "count": 159, 
+        "id": 128
+    }, 
+    "JadeDruid": {
+        "count": 153, 
+        "id": 147
+    }, 
+    "MidrangeHunter": {
+        "count": 88, 
+        "id": 137
+    }, 
+    "PrinceRogue": {
+        "count": 134, 
+        "id": 169
+    }, 
+    "TokenShaman": {
+        "count": 86, 
+        "id": 30
+    }
+}
