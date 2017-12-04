@@ -1,23 +1,23 @@
 {
     "HighlanderPriest": {
-        "count": 159, 
+        "count": 225, 
         "id": 128
     }, 
     "JadeDruid": {
-        "count": 153, 
+        "count": 232, 
         "id": 147
     }, 
     "MidrangeHunter": {
-        "count": 88, 
+        "count": 131, 
         "id": 137
     }, 
     "PrinceRogue": {
-        "count": 134, 
+        "count": 359, 
         "id": 169
     }, 
-    "TokenShaman": {
-        "count": 86, 
-        "id": 30
+    "Zoolock": {
+        "count": 177, 
+        "id": 134
     }, 
-    "total": 1317
+    "total": 2349
 }

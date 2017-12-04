@@ -132,10 +132,10 @@ def populate_database(db_file="hs-clock.db"):
         print(e)
 
 if __name__ == "__main__":
-    #get_from_api(deck_api_string, 'decks.json')
-    #parse_decks_json('decks.json')
-    #get_from_api(card_api_string, 'cards.json')
-    #parse_cards_json('cards.json')
-    #get_from_api(archetype_api_string, 'archetypes.json')
-    #parse_archetypes_json('archetypes.json')
+    get_from_api(deck_api_string, 'decks.json')
+    parse_decks_json('decks.json')
+    get_from_api(card_api_string, 'cards.json')
+    parse_cards_json('cards.json')
+    get_from_api(archetype_api_string, 'archetypes.json')
+    parse_archetypes_json('archetypes.json')
     populate_database()
