@@ -20,12 +20,12 @@ https://keras.io/getting-started/sequential-model-guide/
 October  
 - [x] Begin front end work  
 - [x] Flask serving static website 
-- [ ] Serve some JSON meta data  
+- [x] Serve some JSON meta data  
 - [ ] Tinker with NN--layers, parameters  
 
 November  
 - [ ] Link back end to NN for getting up-to-date info  
-- [ ] Polish front end design  
+- [x] Polish front end design  
 
 December  
 - [ ] Clean up work  
